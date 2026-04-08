@@ -1,1 +1,1 @@
-real-conflict-test
+Learning GIT in Arch with GEmini is fun!
